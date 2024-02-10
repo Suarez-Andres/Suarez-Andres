@@ -1,4 +1,4 @@
-# Hello, and welcome!
+# Hello 👋
 
 I'm Andrés Suárez, the developer behind this profile. I'm a biomedical engineer deeply interested in the software potential related to
 the healthcare industry, and a enthusiast of the artificial intelligence. Also I like to watch and play some sports ⚽️ and read
@@ -16,7 +16,8 @@ I'm glad to say that I have knowledge in:
 
 At this moment, I'm studying about this tecnologies:
 
-![Static Badge](https://img.shields.io/badge/SQLite-purple?style=for-the-badge&logo=SQLite&logoColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/SQL-purple?style=for-the-badge&logoColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/Reflex-gray?style=for-the-badge&logoColor=white&color=gray)
 
 ## Github
 
